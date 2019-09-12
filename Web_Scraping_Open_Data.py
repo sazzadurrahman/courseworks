@@ -3,9 +3,6 @@
 
 # ### Web Scraping from Glasgow Open Data (Housing Price Data)
 
-# In[46]:
-
-
 import os
 import pandas as pd
 #download the page the supplied URL using curl
