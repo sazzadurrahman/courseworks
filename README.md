@@ -19,3 +19,6 @@ It uses RecordLinkage to match records among difference sources
 # 6. Data_Analytics_SAS:
 Nutritional data are analysed in SAS to investigate the linear relationship between the nutritional rating of a cereal and its fat, fibre and sugar content using Linear Regression techniques. 
 
+# 7. Web_Scraping_Open_Data:
+It extracts house price data of Glasgow region from Glasgow Open Data
+
