@@ -1,10 +1,8 @@
 
 # coding: utf-8
 
-# In[1]:
 
-
-# File location and type
+# File location and type in Databricks on Aaamazon S3
 file_location = "/FileStore/tables/climate_csv.csv"
 file_type = "csv"
 
