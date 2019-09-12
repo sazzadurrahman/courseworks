@@ -3,9 +3,6 @@
 
 # ### Neural Network Model
 
-# In[16]:
-
-
 import numpy
 # scipy.special for the sigmoid function expit()
 import scipy.special
