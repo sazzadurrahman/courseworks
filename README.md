@@ -16,4 +16,6 @@ It uses MNIST dataset to recognize handwritten digits by implementing two hidden
 # 5. Record_Match: 
 It uses RecordLinkage to match records among difference sources
 
+# 6. Data_Analytics_SAS:
+Nutritional data are analysed in SAS to investigate the linear relationship between the nutritional rating of a cereal and its fat, fibre and sugar content using Linear Regression techniques. 
 
