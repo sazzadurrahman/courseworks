@@ -3,9 +3,6 @@
 
 # ### Record Matching
 
-# In[76]:
-
-
 import os
 import recordlinkage as rl
 import pandas as pd
