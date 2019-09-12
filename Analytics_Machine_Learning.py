@@ -20,9 +20,6 @@
 # 
 # The dataset used contains non-numerical data and it will need an additional step while encoding the categorical data to numerical data.
 
-# In[80]:
-
-
 import time
 import pandas as pd
 import numpy as np
